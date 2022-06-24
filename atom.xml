@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>The.soul.Of.Pixels&#39;s blog</title>
+  
+  <subtitle>The.soul.Of.Pixels&#39;s blog</subtitle>
+  <link href="https://blog.sofpixaol.top/atom.xml" rel="self"/>
+  
+  <link href="https://blog.sofpixaol.top/"/>
+  <updated>2022-06-18T14:05:00.880Z</updated>
+  <id>https://blog.sofpixaol.top/</id>
+  
+  <author>
+    <name>The.soul.Of.Pixels</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>意外之遇</title>
+    <link href="https://blog.sofpixaol.top/life/unexpected/"/>
+    <id>https://blog.sofpixaol.top/life/unexpected/</id>
+    <published>2022-06-18T12:46:52.000Z</published>
+    <updated>2022-06-18T14:05:00.880Z</updated>
+    
+    
+    <summary type="html">内容被藏起来啦，需要暗号才能查看</summary>
+    
+    
+    
+    <category term="life" scheme="https://blog.sofpixaol.top/categories/life/"/>
+    
+    
+    <category term="friends" scheme="https://blog.sofpixaol.top/tags/friends/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用抛物线的几何性质解一道二次函数压轴</title>
+    <link href="https://blog.sofpixaol.top/math/solving-a-quadratic-function-problem-using-geometry/"/>
+    <id>https://blog.sofpixaol.top/math/solving-a-quadratic-function-problem-using-geometry/</id>
+    <published>2022-05-14T13:43:18.000Z</published>
+    <updated>2022-06-03T05:39:56.170Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;为何不寻常？&quot;&gt;&lt;a href=&quot;#为何不寻常？&quot; class=&quot;headerlink&quot; title=&quot;为何不寻常？&quot;&gt;&lt;/a&gt;为何不寻常？&lt;/h2&gt;&lt;p&gt;原题是一道二次函数压轴题，正常的做法是通过设参数表示点与线之间的关系，然后联立解方程，消参得定值。但我尝试利用抛物线的几何性质求出的定值，并且较于代数方法，几何方法极为简洁，计算量小。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="math" scheme="https://blog.sofpixaol.top/categories/math/"/>
+    
+    
+    <category term="parabola" scheme="https://blog.sofpixaol.top/tags/parabola/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>虎年快乐</title>
+    <link href="https://blog.sofpixaol.top/essays/happy-new-year/"/>
+    <id>https://blog.sofpixaol.top/essays/happy-new-year/</id>
+    <published>2022-01-31T16:00:00.000Z</published>
+    <updated>2022-06-03T05:39:56.170Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="essays" scheme="https://blog.sofpixaol.top/categories/essays/"/>
+    
+    
+    <category term="newyear" scheme="https://blog.sofpixaol.top/tags/newyear/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1.14科技馆旅行随笔</title>
+    <link href="https://blog.sofpixaol.top/essays/essays-0114/"/>
+    <id>https://blog.sofpixaol.top/essays/essays-0114/</id>
+    <published>2022-01-14T15:51:50.000Z</published>
+    <updated>2022-06-03T05:39:56.170Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;em&gt;( 本想顺其自然，但又不忍心一点文字记录都不留… )&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;阑珊灯光之下的步行街；迷途之后的科技馆；惊叹之间的展厅；兴奋之后的涂鸦板；沙滩之上的标记；疲惫之下的道路；灯与雾之间的餐厅；古筝之上的乐声；水雾之下的火锅；车厢之间的谈笑……&lt;/p&gt;
+&lt;p&gt;以及…&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; &lt;strong&gt;每一位至始至终互相陪伴着的朋友们&lt;/strong&gt; ⭐&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;– 正因如此，徒步数公里也不会那样疲乏；坐车数小时也不会感到无聊。也正因如此，这次旅程才会充满快乐与意义。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="essays" scheme="https://blog.sofpixaol.top/categories/essays/"/>
+    
+    
+    <category term="trip" scheme="https://blog.sofpixaol.top/tags/trip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022</title>
+    <link href="https://blog.sofpixaol.top/essays/2022/"/>
+    <id>https://blog.sofpixaol.top/essays/2022/</id>
+    <published>2021-12-31T15:36:18.000Z</published>
+    <updated>2021-12-31T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="essays" scheme="https://blog.sofpixaol.top/categories/essays/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>滑动变阻器与定值电阻串联的电路图像分析</title>
+    <link href="https://blog.sofpixaol.top/material/analysis-of-the-series-circuit/"/>
+    <id>https://blog.sofpixaol.top/material/analysis-of-the-series-circuit/</id>
+    <published>2021-12-17T15:01:19.000Z</published>
+    <updated>2022-06-03T05:39:56.110Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近我们物理老师讲到这个知识点，它有些难但又常考，并且涉及很多数学。赶着抄下一堆笔记后，感觉还是未完全理解，写下这篇blog，一是方便自己复习理解，同时也是为大家提供一份清晰的电子资料。此文会详细附上电路图、每个变量的含义、函数推导过程、函数定义域、函数图像。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="material" scheme="https://blog.sofpixaol.top/categories/material/"/>
+    
+    
+    <category term="electricity" scheme="https://blog.sofpixaol.top/tags/electricity/"/>
+    
+    <category term="physics" scheme="https://blog.sofpixaol.top/tags/physics/"/>
+    
+    <category term="graph" scheme="https://blog.sofpixaol.top/tags/graph/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>什么能使生活100%圆满？</title>
+    <link href="https://blog.sofpixaol.top/life/attitude/"/>
+    <id>https://blog.sofpixaol.top/life/attitude/</id>
+    <published>2021-12-12T10:12:41.000Z</published>
+    <updated>2022-06-03T05:39:56.110Z</updated>
+    
+    
+    <summary type="html">&lt;style type=&quot;text/css&quot;&gt;
+.heimu { color: #000; background-color: #000;  }
+.heimu:hover { color: #fff;  }
+&lt;/style&gt;
+
+&lt;h2 id=&quot;写在开头&quot;&gt;&lt;a href=&quot;#写在开头&quot; class=&quot;headerlink&quot; title=&quot;写在开头&quot;&gt;&lt;/a&gt;写在开头&lt;/h2&gt;&lt;p&gt;这个话题源自于暮也告诉我的一个puzzle：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“如果 A-Z 26个字母在你的生活分别占比1%-26%，那么什么单词能使生活100%圆满？”&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="life" scheme="https://blog.sofpixaol.top/categories/life/"/>
+    
+    
+    <category term="puzzle" scheme="https://blog.sofpixaol.top/tags/puzzle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Consume less, create more(摘抄&amp;翻译)</title>
+    <link href="https://blog.sofpixaol.top/extract/extract-1210/"/>
+    <id>https://blog.sofpixaol.top/extract/extract-1210/</id>
+    <published>2021-12-10T13:51:21.000Z</published>
+    <updated>2022-06-03T05:39:56.110Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Twitter, Facebook, Instagram—we can all agree that these are serious timewasters. But what about &lt;em&gt;The Economist&lt;/em&gt; or &lt;em&gt;War and Peace&lt;/em&gt;? How much can you really remember from all of those &lt;em&gt;New York Times&lt;/em&gt; op-eds you’ve read? Could you summarize the major themes of &lt;em&gt;Grapes of Wrath&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;Twitter, Facebook, Instagram—我们都同意这些是严重的时间浪费。但《经济学人》或《战争与和平》呢？你所有读过的那些《纽约时报》，你真正能记住多少？你能总结出《愤怒的葡萄》的主题吗？&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="extract" scheme="https://blog.sofpixaol.top/categories/extract/"/>
+    
+    
+    <category term="principle" scheme="https://blog.sofpixaol.top/tags/principle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>告别无用社交(摘抄)</title>
+    <link href="https://blog.sofpixaol.top/extract/extract-1102/"/>
+    <id>https://blog.sofpixaol.top/extract/extract-1102/</id>
+    <published>2021-11-02T11:55:34.000Z</published>
+    <updated>2022-06-03T05:39:56.110Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;在这个社会上，除了一些父母可以不计回报的对你付出，剩下没有任何人可以接受不平等的付出。所以当我们失败，或是郁郁不得志的时候，千万不要抱怨社会的的不公，抱怨没有伯乐，更不要盲目的去接触不属于你层级的圈子，我们能做的就是继续努力提升自己，保持最高的学习热情。要相信是金子一定会遇到好伯乐。当然，在你最落魄时候仍然能对你付出真心的人，请一定要善待他们，因为他们是你一生社交中最重要的组成，也是你人生中最幸运的事！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="extract" scheme="https://blog.sofpixaol.top/categories/extract/"/>
+    
+    
+    <category term="social-circle" scheme="https://blog.sofpixaol.top/tags/social-circle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在学校劳动的平凡一天</title>
+    <link href="https://blog.sofpixaol.top/life/an-ordinary-day-of-work-at-school/"/>
+    <id>https://blog.sofpixaol.top/life/an-ordinary-day-of-work-at-school/</id>
+    <published>2021-10-24T14:37:26.000Z</published>
+    <updated>2022-06-03T05:39:56.110Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;“强制的邀请”&quot;&gt;&lt;a href=&quot;#“强制的邀请”&quot; class=&quot;headerlink&quot; title=&quot;“强制的邀请”&quot;&gt;&lt;/a&gt;“强制的邀请”&lt;/h2&gt;&lt;p&gt;就在这前一天，突然在qq上被同学喊来要去学校。缘由是我们班教室作为考场，考完了要将桌子还原，并且还要办黑板报。看着自己作业还剩那么多，并且手头还有很多事没处理，推了半天，推不掉，最后还是被迫去了。不过毕竟难得有次机会能带手机给学校拍几张照，于是心里也觉得不亏。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="life" scheme="https://blog.sofpixaol.top/categories/life/"/>
+    
+    
+    <category term="school" scheme="https://blog.sofpixaol.top/tags/school/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用数学运算和符号的英文读法</title>
+    <link href="https://blog.sofpixaol.top/math/math-in-english/"/>
+    <id>https://blog.sofpixaol.top/math/math-in-english/</id>
+    <published>2021-10-22T01:41:04.000Z</published>
+    <updated>2022-06-03T05:39:56.100Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;计数方法&quot;&gt;&lt;a href=&quot;#计数方法&quot; class=&quot;headerlink&quot; title=&quot;计数方法&quot;&gt;&lt;/a&gt;计数方法&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;小数(decimal; decimal number)&lt;br&gt;$0.5$: zero point five; point five.&lt;br&gt;$10.875$: ten point eight seven five.&lt;/li&gt;
+&lt;li&gt;小数舍入(rounding)&lt;br&gt;$1.2735$: rounded to 3 decimal places is $1.274$.&lt;/li&gt;
+&lt;li&gt;分数(fraction; fraction number)&lt;br&gt;$a\over{b}$: a over b.&lt;br&gt;$\frac{1}{2}$: one half.&lt;br&gt;$\frac{1}{100}$: one hundredth.&lt;br&gt;分子: numerator; 分母: denominator.&lt;/li&gt;
+&lt;li&gt;百分数(percentage)&lt;br&gt;$10%$: ten percent.&lt;/li&gt;
+&lt;li&gt;科学计数(scientific notation)&lt;br&gt;$1.23×10^3$: 1.23 times ten to the power of three; 1.23 times ten to the third (参考幂运算).</summary>
+    
+    
+    
+    <category term="math" scheme="https://blog.sofpixaol.top/categories/math/"/>
+    
+    
+    <category term="english" scheme="https://blog.sofpixaol.top/tags/english/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://blog.sofpixaol.top/test/demo/"/>
+    <id>https://blog.sofpixaol.top/test/demo/</id>
+    <published>2021-10-16T14:12:36.000Z</published>
+    <updated>2022-06-03T05:39:56.100Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;测试使用icarus主题的一些特性&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="test" scheme="https://blog.sofpixaol.top/categories/test/"/>
+    
+    
+    <category term="usage" scheme="https://blog.sofpixaol.top/tags/usage/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>七位同学的旅程</title>
+    <link href="https://blog.sofpixaol.top/life/trip/"/>
+    <id>https://blog.sofpixaol.top/life/trip/</id>
+    <published>2021-10-05T14:53:18.000Z</published>
+    <updated>2022-06-03T05:39:56.100Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;启程&quot;&gt;&lt;a href=&quot;#启程&quot; class=&quot;headerlink&quot; title=&quot;启程&quot;&gt;&lt;/a&gt;启程&lt;/h2&gt;&lt;p&gt;失眠已是近来的常态，而昨日不知是否是过于期待的缘故，在床上整宿翻来覆去睡不着。平常本应是害怕听到闹钟的响声，而此夜里却一直等待着它的声响。终于熬到白天，闹钟一响便马上坐起来。匆忙把自己打理好，在家里简单过完早就出门了。&lt;/p&gt;
+&lt;p&gt;计划中，住在我们这片的四个人应在7:15于约定的地方集合。出门前看了眼钟——已是七点多，我担心我去晚了，便快步走去。结果到了约定的地方时却一个熟悉的人影都没寻着，</summary>
+    
+    
+    
+    <category term="life" scheme="https://blog.sofpixaol.top/categories/life/"/>
+    
+    
+    <category term="trip" scheme="https://blog.sofpixaol.top/tags/trip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>纪念一位转走的同学</title>
+    <link href="https://blog.sofpixaol.top/life/he-left/"/>
+    <id>https://blog.sofpixaol.top/life/he-left/</id>
+    <published>2021-10-02T07:47:06.000Z</published>
+    <updated>2022-06-03T05:39:56.100Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;八月末，暑假结束。刚到学校，再次见到几年来在同一个班相处的每一位同学，他们都是那样熟悉。但是老师告诉我们，有一位同学没来。我望向四周，与心中所念到的名字对应的面孔一个个出现，他们都安然无恙的坐在那里，一切都如同往日的情景，似乎不曾有谁缺席。当我们苦思冥想而时，老师说了：“是程就。”我恍然若失，一位陪伴自己多年的同学不知不觉地离开了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="life" scheme="https://blog.sofpixaol.top/categories/life/"/>
+    
+    
+    <category term="friends" scheme="https://blog.sofpixaol.top/tags/friends/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谁在意呢？</title>
+    <link href="https://blog.sofpixaol.top/life/who-cares/"/>
+    <id>https://blog.sofpixaol.top/life/who-cares/</id>
+    <published>2021-09-14T14:48:01.000Z</published>
+    <updated>2022-06-03T05:39:56.100Z</updated>
+    
+    
+    <summary type="html">内容被藏起来啦，需要暗号才能查看</summary>
+    
+    
+    
+    <category term="life" scheme="https://blog.sofpixaol.top/categories/life/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>当代老一辈给晚辈们诊断的三大绝症？</title>
+    <link href="https://blog.sofpixaol.top/life/Three-terminal-illnesses/"/>
+    <id>https://blog.sofpixaol.top/life/Three-terminal-illnesses/</id>
+    <published>2021-09-12T11:40:49.000Z</published>
+    <updated>2022-06-03T05:39:56.100Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;–一条完美的鄙视链？最底层的又会是谁？&quot;&gt;&lt;a href=&quot;#–一条完美的鄙视链？最底层的又会是谁？&quot; class=&quot;headerlink&quot; title=&quot;–一条完美的鄙视链？最底层的又会是谁？&quot;&gt;&lt;/a&gt;–一条完美的鄙视链？最底层的又会是谁？&lt;/h2&gt;&lt;p&gt;  年龄差是能导致观念差的，观念差就很容易让自己产生优越感从而去鄙视他人 –一条完美的鄙视链？最底层的又会是谁？年龄差是能导致观念差的，观念差就很容易让自己产生优越感从而去鄙视他人.其实吧…如果说站在一个观察者的角度去看这档子鄙视，会感觉说不论鄙视方还是被鄙视方都十分在理，当然正常人都是十分笃定自己的观点并且不怎么听观察者劝的，老一辈更是凭着权威和自信永远固执己见.这也是我称其为“诊断绝症”的原因：太严重了、改不了了、没救了.（从老一辈认知来说）&lt;/p&gt;
+&lt;h3 id=&quot;这三大绝症是：不结婚、不想活、热衷于异己事物&quot;&gt;&lt;a href=&quot;#这三大绝症是：不结婚、不想活、热衷于异己事物&quot; class=&quot;headerlink&quot; title=&quot;这三大绝症是：不结婚、不想活、热衷于异己事物&quot;&gt;&lt;/a&gt;这三大绝症是：不结婚、不想活、热衷于异己事物&lt;/h3&gt;</summary>
+    
+    
+    
+    <category term="life" scheme="https://blog.sofpixaol.top/categories/life/"/>
+    
+    
+    <category term="reprint" scheme="https://blog.sofpixaol.top/tags/reprint/"/>
+    
+    <category term="YSEYPM" scheme="https://blog.sofpixaol.top/tags/YSEYPM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于根号下含根号的多项式化简</title>
+    <link href="https://blog.sofpixaol.top/math/sqrt-in-sqrt/"/>
+    <id>https://blog.sofpixaol.top/math/sqrt-in-sqrt/</id>
+    <published>2021-09-11T13:31:49.000Z</published>
+    <updated>2022-06-03T05:39:56.100Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;说在前面&quot;&gt;&lt;a href=&quot;#说在前面&quot; class=&quot;headerlink&quot; title=&quot;说在前面&quot;&gt;&lt;/a&gt;&lt;strong&gt;说在前面&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;起源于这样一道题目：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;化简：$\sqrt{3+\sqrt{5}}$&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;实际上，对于此类$\sqrt{p+\sqrt{q}}$型的式子，我们需要把根号下的式子配成诸如$\sqrt{a^2+2ab+b^2}$的完全平方的形式，然后便可以得出$\sqrt{(a+b)^2}$，最后化简为$\vert a+b \vert$&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="math" scheme="https://blog.sofpixaol.top/categories/math/"/>
+    
+    
+    <category term="sqrt" scheme="https://blog.sofpixaol.top/tags/sqrt/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Two and two, two of two...</title>
+    <link href="https://blog.sofpixaol.top/math/Two-and-two-two-of-two/"/>
+    <id>https://blog.sofpixaol.top/math/Two-and-two-two-of-two/</id>
+    <published>2021-08-15T12:45:50.000Z</published>
+    <updated>2022-06-03T05:39:56.100Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="math" scheme="https://blog.sofpixaol.top/categories/math/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.sofpixaol.top/test/Hello-World/"/>
+    <id>https://blog.sofpixaol.top/test/Hello-World/</id>
+    <published>2021-08-14T12:46:36.000Z</published>
+    <updated>2022-06-03T05:39:56.100Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="test" scheme="https://blog.sofpixaol.top/categories/test/"/>
+    
+    
+    <category term="first" scheme="https://blog.sofpixaol.top/tags/first/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>感谢同学们的生日礼物和祝福</title>
+    <link href="https://blog.sofpixaol.top/life/14th-birthday/"/>
+    <id>https://blog.sofpixaol.top/life/14th-birthday/</id>
+    <published>2021-06-28T13:42:13.000Z</published>
+    <updated>2022-06-03T05:39:56.100Z</updated>
+    
+    
+    <summary type="html">此文原是发在空间里的，在今日(2021.11.7)突然翻到了，就把它转在了blog上</summary>
+    
+    
+    
+    <category term="life" scheme="https://blog.sofpixaol.top/categories/life/"/>
+    
+    
+    <category term="birthday" scheme="https://blog.sofpixaol.top/tags/birthday/"/>
+    
+  </entry>
+  
+</feed>
