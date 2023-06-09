@@ -421,9 +421,9 @@
     
     <summary type="html">&lt;h3 id=&quot;说在前面&quot;&gt;&lt;a href=&quot;#说在前面&quot; class=&quot;headerlink&quot; title=&quot;说在前面&quot;&gt;&lt;/a&gt;&lt;strong&gt;说在前面&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;起源于这样一道题目：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;化简：$\sqrt{3+\sqrt{5}}$&lt;/p&gt;
+&lt;p&gt;化简：$&#92;sqrt{3+&#92;sqrt{5}}$&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;实际上，对于此类$\sqrt{p+\sqrt{q}}$型的式子，我们需要把根号下的式子配成诸如$\sqrt{a^2+2ab+b^2}$的完全平方的形式，然后便可以得出$\sqrt{(a+b)^2}$，最后化简为$\vert a+b \vert$&lt;/p&gt;</summary>
+&lt;p&gt;实际上，对于此类$&#92;sqrt{p+&#92;sqrt{q}}$型的式子，我们需要把根号下的式子配成诸如$&#92;sqrt{a^2+2ab+b^2}$的完全平方的形式，然后便可以得出$&#92;sqrt{(a+b)^2}$，最后化简为$&#92;vert a+b &#92;vert$&lt;/p&gt;</summary>
     
     
     
