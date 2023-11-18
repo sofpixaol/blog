@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.sofpixaol.top/raving/index.html</loc>
+    <loc>https://blog.sofpixaol.top/about/index.html</loc>
     
-    <lastmod>2023-03-08</lastmod>
+    <lastmod>2023-11-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.sofpixaol.top/life/15/</loc>
+    <loc>https://blog.sofpixaol.top/raving/index.html</loc>
     
     <lastmod>2023-03-08</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sofpixaol.top/test/Hello-World/</loc>
+    <loc>https://blog.sofpixaol.top/essays/2022/</loc>
     
     <lastmod>2023-03-08</lastmod>
     
@@ -38,7 +38,16 @@
   </url>
   
   <url>
-    <loc>https://blog.sofpixaol.top/essays/2022/</loc>
+    <loc>https://blog.sofpixaol.top/life/15/</loc>
+    
+    <lastmod>2023-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sofpixaol.top/test/Hello-World/</loc>
     
     <lastmod>2023-03-08</lastmod>
     
@@ -56,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sofpixaol.top/academic/Two-and-two-two-of-two/</loc>
+    <loc>https://blog.sofpixaol.top/essays/a-story-of-a-rabbit/</loc>
     
     <lastmod>2023-03-08</lastmod>
     
@@ -65,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sofpixaol.top/essays/a-story-of-a-rabbit/</loc>
+    <loc>https://blog.sofpixaol.top/academic/Two-and-two-two-of-two/</loc>
     
     <lastmod>2023-03-08</lastmod>
     
@@ -92,25 +101,16 @@
   </url>
   
   <url>
-    <loc>https://blog.sofpixaol.top/test/demo/</loc>
-    
-    <lastmod>2023-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sofpixaol.top/essays/essays-0114/</loc>
-    
-    <lastmod>2023-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.sofpixaol.top/life/attitude/</loc>
+    
+    <lastmod>2023-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sofpixaol.top/test/demo/</loc>
     
     <lastmod>2023-03-08</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sofpixaol.top/essays/happy-new-year/</loc>
+    <loc>https://blog.sofpixaol.top/essays/essays-0114/</loc>
     
     <lastmod>2023-03-08</lastmod>
     
@@ -147,6 +147,15 @@
   
   <url>
     <loc>https://blog.sofpixaol.top/extract/extract-1210/</loc>
+    
+    <lastmod>2023-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sofpixaol.top/essays/happy-new-year/</loc>
     
     <lastmod>2023-03-08</lastmod>
     
@@ -182,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sofpixaol.top/academic/sqrt-in-sqrt/</loc>
+    <loc>https://blog.sofpixaol.top/life/trip/</loc>
     
     <lastmod>2023-03-08</lastmod>
     
@@ -191,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sofpixaol.top/life/trip/</loc>
+    <loc>https://blog.sofpixaol.top/academic/sqrt-in-sqrt/</loc>
     
     <lastmod>2023-03-08</lastmod>
     
@@ -212,15 +221,6 @@
     <loc>https://blog.sofpixaol.top/life/who-cares/</loc>
     
     <lastmod>2023-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sofpixaol.top/about/index.html</loc>
-    
-    <lastmod>2023-01-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -274,7 +274,7 @@
 
   <url>
     <loc>https://blog.sofpixaol.top/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -282,126 +282,126 @@
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/birthday/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/first/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/reprint/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/YSEYPM/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/friends/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/school/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/electricity/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/physics/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/graph/</loc>
-    <lastmod>2023-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sofpixaol.top/tags/usage/</loc>
-    <lastmod>2023-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sofpixaol.top/tags/trip/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/puzzle/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sofpixaol.top/tags/usage/</loc>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/math/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/social-circle/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.sofpixaol.top/tags/newyear/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <loc>https://blog.sofpixaol.top/tags/trip/</loc>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/principle/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sofpixaol.top/tags/newyear/</loc>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/english/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/tags/parabola/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -410,35 +410,35 @@
   
   <url>
     <loc>https://blog.sofpixaol.top/categories/life/</loc>
-    <lastmod>2023-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sofpixaol.top/categories/test/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/categories/essays/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sofpixaol.top/categories/test/</loc>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/categories/academic/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.sofpixaol.top/categories/extract/</loc>
-    <lastmod>2023-07-23</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
